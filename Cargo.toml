@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "crypto",
+    "gui",
+    "layer_1",
+    "layer_2",
+    "model",
+]
